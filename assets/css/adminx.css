@@ -1,0 +1,57 @@
+@font-face {
+	src: url("../fonts/HPSimplified_Bd.ttf") format("truetype");
+	font-family: "HPSimplified bold";
+	font-weight: bold;
+}
+@font-face {
+	src: url("../fonts/HPSimplified_Lt.ttf") format("truetype");
+	font-family: "HPSimplified light";
+	font-weight: light;
+}
+@font-face {
+	src: url("../fonts/HPSimplified_Rg.ttf") format("truetype");
+	font-family: "HPSimplified normal";
+	font-weight: normal;
+}
+
+table {
+    /* background-color: khaki; */
+    margin-bottom: 30px;
+}
+
+
+th, td {
+    border: 1px solid grey;
+}
+
+
+#titreArticles {
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 20px;
+    font-family: "HPSimplified light", sans-serif;
+}
+
+#bAdd {
+    margin-bottom: 30px;
+    margin-right: 50px;
+    box-shadow: 3px 3px 5px grey;
+    background-color: white;
+    border: 1px solid grey;
+    font-family: "HPSimplified normal", sans-serif;
+}
+
+th {
+    text-align: center;
+    font-family: "HPSimplified bold", sans-serif;
+}
+
+td {
+    font-size: 0.85em;
+    font-family: "HPSimplified normal", sans-serif;
+}
+
+i {
+    font-family: "HPSimplified normal", sans-serif;
+}
+
