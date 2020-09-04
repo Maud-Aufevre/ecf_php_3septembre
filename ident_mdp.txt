@@ -1,0 +1,5 @@
+Connexions:
+
+Tous les droits: id = admin mdp= admin123
+Seulement droits de consultation et de modification: id= modif mdp= modif123
+Seulement droit de consultation: id= consult mdp= consult123
